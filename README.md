@@ -1,6 +1,6 @@
 # lampara
 
-Un nuevo proyecto de flutter.
+A new Flutter project.
 
 ## Getting Started
 
