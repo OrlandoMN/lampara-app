@@ -42,3 +42,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#Ignore all
+#*.temp
+#temp/
+
+#Ignore all files named temp1.log, temp2.log...
+#temp?.log
+
+#Ignore all .log files except main.log
+#*.log
+#!main.log
